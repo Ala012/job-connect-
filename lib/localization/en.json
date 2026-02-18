@@ -1,0 +1,114 @@
+{
+  "app_name": "JobConnect",
+  "welcome": "Welcome to JobConnect",
+  
+  "auth": {
+    "login": "Login",
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "full_name": "Full name",
+    "role": "Role",
+    "employee": "Candidate",
+    "company": "Company",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "create_account": "Create account",
+    "dont_have_account": "Don't have an account?",
+    "already_have_account": "Already have an account?"
+  },
+
+  "navigation": {
+    "jobs": "Jobs",
+    "favorites": "Favorites",
+    "applications": "Applications",
+    "profile": "Profile",
+    "my_jobs": "My jobs",
+    "candidates": "Candidates",
+    "home": "Home"
+  },
+
+  "jobs": {
+    "title": "Job offers",
+    "search": "Search jobs, skills...",
+    "no_results": "No job found",
+    "no_jobs_available": "No jobs available",
+    "job_details": "Job details",
+    "contract_type": "Contract type",
+    "location": "Location",
+    "experience_level": "Experience",
+    "salary": "Salary",
+    "deadline": "Deadline",
+    "description": "Description",
+    "required_skills": "Required skills",
+    "apply": "Apply",
+    "company": "Company",
+    "posted": "Posted"
+  },
+
+  "favorites": {
+    "title": "My favorites",
+    "no_favorites": "No favorites",
+    "mark_your_preferences": "Mark your preferred offers",
+    "added_to_favorites": "Added to favorites",
+    "removed_from_favorites": "Removed from favorites"
+  },
+
+  "applications": {
+    "title": "My applications",
+    "no_applications": "No applications",
+    "status": "Status",
+    "sent": "Sent",
+    "in_review": "Under review",
+    "accepted": "Accepted",
+    "rejected": "Rejected"
+  },
+
+  "profile": {
+    "title": "My profile",
+    "company_profile": "Company profile",
+    "full_name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "biography": "Biography",
+    "professional_experiences": "Professional experiences",
+    "skills": "Skills",
+    "my_cv": "My CV",
+    "save": "Save",
+    "logout": "Logout",
+    "address": "Address",
+    "description": "Description",
+    "domain": "Domain",
+    "company_size": "Company size"
+  },
+
+  "settings": {
+    "dark_mode": "Dark mode",
+    "notifications": "Notifications",
+    "global_notifications": "Global notifications",
+    "application_status": "Application status",
+    "new_jobs": "New jobs",
+    "new_applications": "New applications",
+    "reminders": "Reminders"
+  },
+
+  "filters": {
+    "title": "Filters",
+    "contract_type": "Contract type",
+    "experience_level": "Experience level",
+    "location": "Location",
+    "min_salary": "Minimum salary",
+    "apply_filters": "Apply filters",
+    "clear_filters": "Clear filters"
+  },
+
+  "messages": {
+    "success": "Success!",
+    "error": "Error",
+    "loading": "Loading...",
+    "no_internet": "No internet connection",
+    "try_again": "Try again",
+    "saved_successfully": "Saved successfully",
+    "profile_updated": "Profile updated successfully"
+  }
+}

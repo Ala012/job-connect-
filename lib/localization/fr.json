@@ -1,0 +1,114 @@
+{
+  "app_name": "JobConnect",
+  "welcome": "Bienvenue sur JobConnect",
+  
+  "auth": {
+    "login": "Connexion",
+    "signup": "Inscription",
+    "email": "Email",
+    "password": "Mot de passe",
+    "full_name": "Nom complet",
+    "role": "Rôle",
+    "employee": "Candidat",
+    "company": "Entreprise",
+    "sign_in": "Se connecter",
+    "sign_up": "S'inscrire",
+    "create_account": "Créer un compte",
+    "dont_have_account": "Pas de compte?",
+    "already_have_account": "Vous avez déjà un compte?"
+  },
+
+  "navigation": {
+    "jobs": "Offres",
+    "favorites": "Favoris",
+    "applications": "Candidatures",
+    "profile": "Profil",
+    "my_jobs": "Mes offres",
+    "candidates": "Candidats",
+    "home": "Accueil"
+  },
+
+  "jobs": {
+    "title": "Offres d'emploi",
+    "search": "Rechercher un emploi, une compétence...",
+    "no_results": "Aucune offre trouvée",
+    "no_jobs_available": "Aucune offre disponible",
+    "job_details": "Détails de l'offre",
+    "contract_type": "Type de contrat",
+    "location": "Localisation",
+    "experience_level": "Expérience",
+    "salary": "Salaire",
+    "deadline": "Date limite",
+    "description": "Description",
+    "required_skills": "Compétences requises",
+    "apply": "Postuler",
+    "company": "Entreprise",
+    "posted": "Publié"
+  },
+
+  "favorites": {
+    "title": "Mes favoris",
+    "no_favorites": "Aucun favori",
+    "mark_your_preferences": "Marquez vos offres préférées",
+    "added_to_favorites": "Ajouté aux favoris",
+    "removed_from_favorites": "Retiré des favoris"
+  },
+
+  "applications": {
+    "title": "Mes candidatures",
+    "no_applications": "Aucune candidature",
+    "status": "Statut",
+    "sent": "Envoyée",
+    "in_review": "En cours d'étude",
+    "accepted": "Acceptée",
+    "rejected": "Refusée"
+  },
+
+  "profile": {
+    "title": "Mon profil",
+    "company_profile": "Profil entreprise",
+    "full_name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "biography": "Biographie",
+    "professional_experiences": "Expériences professionnelles",
+    "skills": "Compétences",
+    "my_cv": "Mon CV",
+    "save": "Enregistrer",
+    "logout": "Déconnexion",
+    "address": "Adresse",
+    "description": "Description",
+    "domain": "Domaine",
+    "company_size": "Taille de l'entreprise"
+  },
+
+  "settings": {
+    "dark_mode": "Mode sombre",
+    "notifications": "Notifications",
+    "global_notifications": "Notifications globales",
+    "application_status": "Statut des candidatures",
+    "new_jobs": "Nouvelles offres",
+    "new_applications": "Nouvelles candidatures",
+    "reminders": "Rappels"
+  },
+
+  "filters": {
+    "title": "Filtres",
+    "contract_type": "Type de contrat",
+    "experience_level": "Niveau d'expérience",
+    "location": "Localisation",
+    "min_salary": "Salaire minimum",
+    "apply_filters": "Appliquer les filtres",
+    "clear_filters": "Réinitialiser les filtres"
+  },
+
+  "messages": {
+    "success": "Succès!",
+    "error": "Erreur",
+    "loading": "Chargement...",
+    "no_internet": "Pas de connexion internet",
+    "try_again": "Réessayer",
+    "saved_successfully": "Enregistré avec succès",
+    "profile_updated": "Profil mis à jour avec succès"
+  }
+}
