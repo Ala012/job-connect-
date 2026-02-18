@@ -294,16 +294,7 @@ Pour tester l'application :
    - Sélectionnez "Entreprise" lors de l'inscription
    - Le backend utilisera le type "entreprise"
 
-## 🔮 Améliorations futures
 
-- ✅ Intégration complète avec un backend REST API
-- ✅ Mode sombre
-- ✅ Système de favoris
-- ✅ Recherche avancée d'offres
-- ✅ Notifications push
-- ✅ Support multilingue
-- ✅ Chat entre candidats et entreprises
-- ✅ Recommandations d'offres personnalisées
 
 ## � Améliorations Futures
 
