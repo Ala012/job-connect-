@@ -350,6 +350,6 @@ Ce projet est un exemple d'application de recrutement développée avec Flutter.
 
 ---
 
-Développé avec ❤️ par Ilyes Bahloul en Flutter
+Développé avec ❤️ par  ALA CHAABOUNI  en Flutter
 
 
