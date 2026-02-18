@@ -305,7 +305,22 @@ Pour tester l'application :
 - ✅ Chat entre candidats et entreprises
 - ✅ Recommandations d'offres personnalisées
 
-## 📄 Licence
+## � Améliorations Futures
+
+- 🔄 Intégration d'un système de notation et commentaires
+- 📊 Tableau de bord analytique pour les entreprises (statistiques des candidatures)
+- 🤖 Intelligence artificielle pour les recommandations d'offres
+- 💬 Chat en temps réel avec notifications instantanées
+- 📱 Application mobile native (Android/iOS)
+- 🌍 Géolocalisation avancée et recherche radar
+- 📈 Système de matching candidat-offre basé sur l'IA
+- 🎖️ Badges et certifications pour les candidats
+- 🔗 Intégration LinkedIn/Indeed
+- 💼 Portfolio et portfolio en ligne des candidats
+- 📅 Calendrier d'entretiens avec synchronisation
+- 🎥 Entretiens vidéo intégrés dans la plateforme
+
+## �📄 Licence
 
 Ce projet est un exemple d'application de recrutement développée avec Flutter.
 
